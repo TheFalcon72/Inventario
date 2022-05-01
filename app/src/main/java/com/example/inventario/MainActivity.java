@@ -1,4 +1,4 @@
-package com.iggo.miniinventario;
+package com.example.inventario;
 
 import androidx.appcompat.app.AppCompatActivity;
 
